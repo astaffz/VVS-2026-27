@@ -40,7 +40,7 @@ namespace LoanManagement.Services.Customer
                 {
                     if (_db.Customers[i].Id == x1)
                     {
-                        flg = false;
+                        flg = false;!
                     }
                 }
             }
